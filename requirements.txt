@@ -1,0 +1,6 @@
+Python
+Scikit-learn
+NumPy
+matplotlib
+
+pip install -r requirements.txt
