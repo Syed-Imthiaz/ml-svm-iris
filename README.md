@@ -52,3 +52,12 @@ weighted avg                 0.98             0.98            0.98              
 ✅ **Accuracy: 98%** on test data!
 
 ---
+
+## 🚫 License & Disclaimer
+
+This project is protected under **"All Rights Reserved"**.  
+No part of this code may be copied, reused, or modified without explicit written permission from the author.
+
+For inquiries: syedimthiaz2006@gmail.com
+
+---
