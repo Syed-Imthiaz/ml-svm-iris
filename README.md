@@ -45,9 +45,9 @@ Classification Report:
            2       0.93      1.00      0.96        13
 
     accuracy                           0.98        45
-   macro avg       0.98      0.97      0.97        45
+   macro avg             0.98          0.97         0.97           45
    
-weighted avg       0.98      0.98      0.98        45
+weighted avg             0.98          0.98         0.98          45
 
 ✅ **Accuracy: 98%** on test data!
 
