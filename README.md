@@ -55,9 +55,9 @@ weighted avg                 0.98             0.98            0.98              
 
 ## 🚫 License & Disclaimer
 
-This project is protected under **"All Rights Reserved"**.  
-No part of this code may be copied, reused, or modified without explicit written permission from the author.
+© 2025 Syed Imthiaz I — All rights reserved.
+Unauthorized copying, modification, distribution, or use of this code or any part of it is strictly prohibited without the express written permission of the author.
 
-For inquiries: syedimthiaz2006@gmail.com
+📩 For permission requests, contact: syedimthiaz2006@gmail.com
 
 ---
