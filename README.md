@@ -30,24 +30,7 @@ This project:
 
 ---
 
-## 📈 Model Evaluation (Sample Output)
-
-Confusion Matrix:
-[[19  0  0]
- [ 0 12  1]
- [ 0  0 13]]
-
-Classification Report:
-              precision    recall  f1-score   support
-
-           0       1.00      1.00      1.00        19
-           1       1.00      0.92      0.96        13
-           2       0.93      1.00      0.96        13
-
-    accuracy                           0.98        45
-   macro avg                 0.98             0.97            0.97              45
-   
-weighted avg                 0.98             0.98            0.98              45
+https://github.com/Syed-Imthiaz/ml-svm-iris/blob/main/SVM%20%E2%80%93%20Iris%20Flower%20Classification.JPG
 
 ✅ **Accuracy: 98%** on test data!
 
