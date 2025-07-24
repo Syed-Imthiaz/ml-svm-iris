@@ -37,6 +37,16 @@ This project:
 
 ---
 
+## 👨‍💻 Author
+Syed Imthiaz I
+B.E. Computer Science & Engineering
+KCG College of Technology
+ML Enthusiast 
+## 🔗LinkedIn(https://www.linkedin.com/in/syed-imthiaz-i-7a308b301/)
+## 🔗LinkedIn  post(https://www.linkedin.com/feed/update/urn:li:activity:7353801491276611584/)
+
+---
+
 ## 🚫 License & Disclaimer
 
 © 2025 Syed Imthiaz I — All rights reserved.
