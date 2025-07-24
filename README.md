@@ -29,8 +29,9 @@ This project:
 - NumPy
 
 ---
+## 📸 Output
 
-https://github.com/Syed-Imthiaz/ml-svm-iris/blob/main/SVM%20%E2%80%93%20Iris%20Flower%20Classification.JPG
+![SVM – Iris Flower Classification](https://github.com/Syed-Imthiaz/ml-svm-iris/blob/main/SVM%20%E2%80%93%20Iris%20Flower%20Classification.JPG?raw=true)
 
 ✅ **Accuracy: 98%** on test data!
 
