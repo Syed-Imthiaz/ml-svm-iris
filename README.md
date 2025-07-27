@@ -42,7 +42,6 @@ This project:
 **Syed Imthiaz I**  
 B.E. Computer Science and Engineering  
 KCG College of Technology  
-ML Intern @ SystemTron – Generative AI Track  
 🔗 [LinkedIn](https://www.linkedin.com/in/syed-imthiaz-i-7a308b301/)  
 🔗 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7353801491276611584/)
 
