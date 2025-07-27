@@ -1,6 +1,4 @@
-Python
-Scikit-learn
-NumPy
+numpy
 matplotlib
-
-pip install -r requirements.txt
+pandas
+scikit-learn
